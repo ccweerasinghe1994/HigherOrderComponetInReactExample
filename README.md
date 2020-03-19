@@ -1,2 +1,0 @@
-# HigherOrderComponetInReactExample
-Created with CodeSandbox
